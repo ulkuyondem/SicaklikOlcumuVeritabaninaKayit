@@ -1,0 +1,21 @@
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\bin\Debug\SıcaklıkSensörü.exe.config
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\bin\Debug\SıcaklıkSensörü.exe
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\bin\Debug\SıcaklıkSensörü.pdb
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.csprojResolveAssemblyReference.cache
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.Form1.resources
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.Properties.Resources.resources
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.csproj.GenerateResource.Cache
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.exe
+C:\Users\Ülkü\Desktop\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.pdb
+C:\Users\Ülkü\Desktop\1görselprogramlama\SıcaklıkSensörü\SıcaklıkSensörü\bin\Debug\SıcaklıkSensörü.exe.config
+C:\Users\Ülkü\Desktop\1görselprogramlama\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.exe
+C:\Users\Ülkü\Desktop\1görselprogramlama\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.pdb
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\bin\Debug\SıcaklıkSensörü.exe.config
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.exe
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.pdb
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\bin\Debug\SıcaklıkSensörü.exe
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\bin\Debug\SıcaklıkSensörü.pdb
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.csprojResolveAssemblyReference.cache
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.Form1.resources
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.Properties.Resources.resources
+C:\Users\Ülkü\Desktop\Arduino proje\SıcaklıkSensörü\SıcaklıkSensörü\obj\Debug\SıcaklıkSensörü.csproj.GenerateResource.Cache
